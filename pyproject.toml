@@ -1,0 +1,7 @@
+[project]
+name = "kiss"
+version = "0.1.0"
+description = "keep it simple support (stack)"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
