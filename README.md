@@ -18,3 +18,5 @@ the following are targeting **windows 11+**
 here's some upcoming possibilities:
 
 1. command line interface (cli) with even more powerful features
+1. record/edit support engagements with [obs]()[https://obsproject.com/] and post along with summaries, tags, etc. in searchable website with natural language interface for live q&a
+1. optimize obs stack workflow with live-triggered markers for automated editing, including automatic removal of live research, off-topic tracks, and misspeaks, etc. via embedded markers
