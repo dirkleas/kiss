@@ -1,12 +1,15 @@
 # kiss - keep it simple support (stack)
 
-here are some free, practical tools that help with remote support...
+remote support is always tricky -- it's always hard to listen to the person providing support, follow along with their instructions (often doing new things, riddled with jargon, new concepts, etc.), learn, and still take notes. it's like juggling cats -- here's an approach that attempts to reduce the friction a bit, where you can just watch and learn!
 
-**🙋‍♂️ supportee** - person **requesting** and **receiving** technical support
+this **kiss** model is based on a few free, practical tools that help with **simple** remote support...
 
-**🤓 supporter** - person **providing** technical support
+**support paticipants:**
 
-## windows
+1. **🙋‍♂️ supportee** - person **requesting** and **receiving** technical support
+1. **🤓 supporter** - person **providing** technical support
+
+## windows support apps
 
 the following secure, free apps are used for **windows 11+** support:
 
@@ -15,7 +18,7 @@ the following secure, free apps are used for **windows 11+** support:
 1. [keyviz](https://github.com/mulaRahul/keyviz) - onscreen keyboard visualizer, install latest alpha release on **🙋‍♂️ supportee** computer
 1. [mouse pointer highlight](https://apps.microsoft.com/detail/9p7sb9s4rq7z?hl=en-US&gl=US) - onscreen mouse cursor highlighter, install on **🙋‍♂️ supportee** computer
 
-## getting support
+## kiss support workflow
 
 getting support is easy...
 
