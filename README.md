@@ -13,7 +13,7 @@ this **kiss** model is based on a few free, practical tools that help with **sim
 
 the following secure, free apps are used for **windows 11+** support:
 
-1. [teamviewer](https://www.teamviewer.com/en-us/) (free version) - secure remote control app, install on both **🤓 supporter** and **🙋‍♂️ supportee** computers
+1. [teamviewer](https://www.teamviewer.com/en-us/) (free version) - secure remote control app, install on both **🤓 supporter** and **🙋‍♂️ supportee** computers and mobile phones
 1. [signal](https://signal.org/) - secure text, voice, and video conferencing, install on both **🤓 supporter** and **🙋‍♂️ supportee** computers and mobile phones and set up private chat
 1. [keyviz](https://github.com/mulaRahul/keyviz) - onscreen keyboard visualizer, install latest alpha release on **🙋‍♂️ supportee** computer
 1. [mouse pointer highlight](https://apps.microsoft.com/detail/9p7sb9s4rq7z?hl=en-US&gl=US) - onscreen mouse cursor highlighter, install on **🙋‍♂️ supportee** computer
